@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EMCwithXArm
-and my ideas when I grew up,but anyone who sees it can use it.
+- this is my idea,but anyone who sees it can use it.
 
 EMC with XArm Notion – A Bridge Between x86 and ARM
 Document created on: 2025-04-04 13:27:19
